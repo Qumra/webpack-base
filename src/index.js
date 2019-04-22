@@ -10,7 +10,7 @@ import ReactDOM from 'react-dom'
 // const mydiv =React.createElement('div',null,'这是一个div',myh1)
 
 
-
+import '@/class'
 // HTML是最优秀的标记语言
 // 注意：在js文件中默认不能写类似于HTML的标记，否则会打包失败
 // 可以使用babel来转换这些js中的标签；
