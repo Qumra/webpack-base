@@ -31,3 +31,7 @@ windows命令行中 叹号 ! 应该不是特殊字符。我的密码中含叹号
 
 https://cmc.rnd.huawei.com/mirror/index/cmcmirrors?fromCMC=true
 公司的镜像地址，搜npm即可
+
+
+
+https://cmc.rnd.huawei.com/mirror/index/cmcmirrors?fromCMC=true
